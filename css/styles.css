@@ -1,0 +1,51 @@
+.jumbotron {
+    background-image: url(/images/photo-1530292562188-4cf0860788a2.jpeg);
+    background-size: cover;
+    height: 800px;
+    text-align: center;
+    background-attachment: fixed;
+  }
+.display-4{
+    color: white;
+    margin-top: 10%;
+    
+}
+.lead{
+    font-size: 2em;
+    color:white;
+}
+
+.gardeners{
+    text-align: center;
+    margin-top: 3rem;
+}
+.speakerCardWrapper{
+
+    padding: 25 100 25 100px; 
+}
+
+.speakerCard{
+    padding: 60px;
+}
+
+.speakerCard > *{
+    margin-bottom: 30px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 16px;
+    
+}
+.mute{
+    text: muted;
+}
+.containerCTA{
+    background-color: lightgreen;
+}
+.map{
+    padding: 50px;
+}
+iframe{
+    margin-left: 90px;
+} 
